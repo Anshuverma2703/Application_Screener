@@ -1,2 +1,2 @@
 Applicaion for Screening a Resume 
-link ---> https://preeminent-daffodil-41aae9.netlify.app/
+link ---> https://venerable-longma-91d10a.netlify.app/
